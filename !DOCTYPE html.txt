@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login page validation</title>
+<script>
+function validation()
+{
+var name ,pass;
+name=document.getElementById('t1').value;
+pass=document.getElementById('t2').value;
+if(name==")
